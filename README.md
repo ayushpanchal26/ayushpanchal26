@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushpanchal26" alt="ayushpanchal26" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/apgamerboy04" target="blank"><img src="https://img.shields.io/twitter/follow/apgamerboy04?logo=twitter&style=for-the-badge" alt="apgamerboy04" /></a> </p>
+<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/apgamerboy04?logo=twitter&style=for-the-badge" alt="4" /></a> </p>
 
 - 🔭 I’m currently working on **data science**
 
