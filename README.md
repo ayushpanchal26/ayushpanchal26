@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **data science**
 
-- 🌱 I’m currently learning **streamLit**
+- 🌱 I’m currently learning **ALGORITHMS**
 
 - 💬 Ask me about **Python ,data science**
 
