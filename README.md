@@ -1,6 +1,6 @@
 ![MasterHead](https://www.shutterstock.com/image-vector/data-science-banner-web-icon-260nw-2322632591.jpg)
 <h1 align="center">Hi 👋, I'm Ayush Panchal</h1>
-<h3 align="center">A aspiring Data Scientist from india.</h3>
+<h3 align="center">AI Engineer </h3>
 <img align="right" alt="Coding" width="400" src="https://parami.ai/wp-content/uploads/2023/06/040823_chatgpt_feat.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushpanchal26&label=Profile%20views&color=0e75b6&style=flat" alt="ayushpanchal26" /> </p>
