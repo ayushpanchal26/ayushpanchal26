@@ -11,6 +11,7 @@
 </p>
 
 <img align="right" alt="Coding" width="380" src="https://parami.ai/wp-content/uploads/2023/06/040823_chatgpt_feat.gif" />
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ayushpanchal26&label=Profile%20views&color=0e75b6&style=flat" alt="ayushpanchal26" />
 </p>
@@ -63,12 +64,10 @@
 <!-- ===================== TECH STACK ===================== -->
 ## 🧰 AI / ML Languages & Tools
 
-<!-- Clean icon strip (AI-focused, no web-dev) -->
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,docker,git,linux,postgres,mongodb&theme=dark" />
 </p>
 
-<!-- Extra AI/LLM badges (stable + looks premium) -->
 <p align="left">
   <img src="https://img.shields.io/badge/LLMs-RAG-00C853?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-0e75b6?style=for-the-badge" />
@@ -83,20 +82,10 @@
 <!-- ===================== STATS (FIXED) ===================== -->
 ## 📊 GitHub Stats
 
-<!-- Use Markdown images (more reliable than HTML &-escaping issues) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushpanchal26&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=transparent" />
-</p>
+| Stats | Top Languages |
+| --- | --- |
+| ![](https://github-readme-stats.vercel.app/api?username=ayushpanchal26&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=github_dark&bg_color=00000000) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpanchal26&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000) |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpanchal26&layout=compact&hide_border=true&theme=transparent" />
-</p>
+![](https://streak-stats.demolab.com?user=ayushpanchal26&hide_border=true&background=00000000&ring=00C853&fire=0e75b6&currStreakLabel=00C853&sideLabels=0e75b6&dates=9CA3AF)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayushpanchal26&hide_border=true&theme=transparent" />
-</p>
-
-<!-- Optional: Activity graph (looks great; remove if you want minimal) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushpanchal26&hide_border=true&bg_color=00000000&line=00C853&point=0e75b6&area=true&area_color=00C853" />
-</p>
+![](https://github-readme-activity-graph.vercel.app/graph?username=ayushpanchal26&hide_border=true&bg_color=00000000&line=00C853&point=0e75b6&area=true&area_color=00C853)
