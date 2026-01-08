@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/apgamerboy04?logo=twitter&style=for-the-badge" alt="4" /></a> </p>
 
-- 🔭 I’m currently working on **data science**
+- 🔭 I’m currently working as ** AI Engineer(LLM & RAG) ** at MyRupaya (https://www.myrupaya.in) 
 
-- 🌱 I’m currently learning **ALGORITHMS**
+- 🌱 I’m currently learning **LLM, RAG and automation**
 
-- 💬 Ask me about **Python ,data science**
+- 💬 Ask me about **Python ,data science, LLMs, Machine Learning, Artifical Intelligenence**
 
 - 📫 How to reach me **ayushpanchal2605@gmail.com**
 
