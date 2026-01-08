@@ -12,9 +12,6 @@
 
 <img align="right" alt="Coding" width="380" src="https://parami.ai/wp-content/uploads/2023/06/040823_chatgpt_feat.gif" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ayushpanchal26&label=Profile%20views&color=0e75b6&style=flat" alt="ayushpanchal26" />
-</p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
