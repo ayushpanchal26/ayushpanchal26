@@ -1,4 +1,4 @@
-<!-- Banner (reliable + no hosting needed) -->
+<!-- ===================== HERO ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Ayush%20Panchal&fontAlign=50&fontAlignY=35&fontSize=44&color=0:0e75b6,100:00c853&fontColor=ffffff&animation=fadeIn" />
 </p>
@@ -7,7 +7,7 @@
 <h3 align="center">AI Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=780&lines=AI+Engineer+%7C+LLM+%26+RAG;Building+AI+Products+at+MyRupaya;Python+%7C+Machine+Learning+%7C+Automation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+LLM+%26+RAG;Building+AI+Products+at+MyRupaya;Retrieval+Systems+%7C+Automation+%7C+Evaluation" />
 </p>
 
 <img align="right" alt="Coding" width="380" src="https://parami.ai/wp-content/uploads/2023/06/040823_chatgpt_feat.gif" />
@@ -22,7 +22,9 @@
   </a>
 </p>
 
+<br/>
 
+<!-- ===================== ABOUT ===================== -->
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently working as **AI Engineer (LLM & RAG)** at **MyRupaya** (https://www.myrupaya.in)  
@@ -32,20 +34,18 @@
 
 ---
 
-## 🚀 MyRupaya (LLM & RAG) — What I’m Building
+<!-- ===================== CURRENT WORK ===================== -->
+## 🎯 What I’m Currently Working On (MyRupaya)
 
-Here’s the kind of work I do as an **AI Engineer (LLM & RAG)** at **MyRupaya**:
-
-- **RAG pipelines**: built retrieval + generation flows for accurate, source-grounded answers from internal offer/credit-card knowledge.
-- **LLM prompt systems**: structured prompts, templates, and response formats for consistent outputs across use-cases.
-- **Automation workflows**: automated repetitive data processes (offer extraction, normalization, validations, and updates).
-- **Search & relevance**: improved matching/ranking so users see the most relevant card/offer outcomes for their intent.
-- **Quality & safety**: added guardrails and evaluation checks to reduce hallucinations and improve reliability.
-
-> If you want, you can later add specific project names + measurable outcomes (latency, accuracy, coverage, etc.).
+- Building **RAG systems** (retrieval → rerank → grounded generation) for offer/credit-card knowledge
+- Improving **search relevance & ranking** for better user-intent matching
+- Designing **LLM prompt + output formats** for consistent, structured responses
+- Creating **automation pipelines** for data extraction, normalization, validation, and updates
+- Setting up **evaluation checks** (quality, correctness, regression testing) for reliability
 
 ---
 
+<!-- ===================== LINKS ===================== -->
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/ayushpanchal26" target="blank">
@@ -67,43 +67,43 @@ Here’s the kind of work I do as an **AI Engineer (LLM & RAG)** at **MyRupaya**
 
 ---
 
-<h3 align="left">🧰 Languages and Tools:</h3>
+<!-- ===================== TECH STACK ===================== -->
+## 🧰 AI / ML Languages & Tools
 
+<!-- Clean icon strip (AI-focused, no web-dev) -->
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,docker,git,linux,postgres,mongodb&theme=dark" />
 </p>
 
-<!-- Optional: one-line “stack strip” -->
+<!-- Extra AI/LLM badges (stable + looks premium) -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow,fastapi,flask,docker,git,linux" />
+  <img src="https://img.shields.io/badge/LLMs-RAG-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-0e75b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector_Search-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-2b9348?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChromaDB-1f2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hugging_Face-fcc419?style=for-the-badge&logo=huggingface&logoColor=000" />
 </p>
 
 ---
 
+<!-- ===================== STATS (FIXED) ===================== -->
 ## 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushpanchal26&show_icons=true&locale=en&layout=compact" alt="ayushpanchal26" />
+<!-- Use Markdown images (more reliable than HTML &-escaping issues) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushpanchal26&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=transparent" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushpanchal26&show_icons=true&locale=en" alt="ayushpanchal26" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpanchal26&layout=compact&hide_border=true&theme=transparent" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushpanchal26&" alt="ayushpanchal26" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ayushpanchal26&hide_border=true&theme=transparent" />
+</p>
 
+<!-- Optional: Activity graph (looks great; remove if you want minimal) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushpanchal26&hide_border=true&bg_color=00000000&line=00C853&point=0e75b6&area=true&area_color=00C853" />
+</p>
