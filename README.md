@@ -11,12 +11,8 @@
 </p>
 
 <img align="right" alt="Coding" width="380" src="https://parami.ai/wp-content/uploads/2023/06/040823_chatgpt_feat.gif" />
-
-
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ayushpanchal26&margin-w=8&margin-h=8&no-frame=true" alt="ayushpanchal26" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ayushpanchal26&label=Profile%20views&color=0e75b6&style=flat" alt="ayushpanchal26" />
 </p>
 
 <br/>
